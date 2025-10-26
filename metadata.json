@@ -1,0 +1,5 @@
+{
+  "name": "Operator - Asterisk GUI",
+  "description": "A modern, responsive web-based GUI for managing an Asterisk 18 PBX. It provides real-time monitoring of calls, extensions, trunks, and system performance through an intuitive dashboard interface.",
+  "requestFramePermissions": []
+}
